@@ -1,0 +1,11 @@
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\EstrategiaDeRotaComCarro.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\Local.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\EstrategiaDeRotaComBike.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\EstrategiaDeRotaFactory.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\InstrucaoDaRota.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\Chegada.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\application\CalculadorDeRota.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\Rota.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\EstrategiaDeRota.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\Partida.java
+C:\Users\alcan\IdeaProjects\poc-strategy-pattern\poc-strategy-pattern\src\main\java\com\raiadrogasil\backommerce\poc\strategy\domain\rota\TipoDeTransporte.java
